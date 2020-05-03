@@ -1,0 +1,188 @@
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\xunit.runner.utility.netcoreapp10.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\AbsenApiTest.deps.json
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\AbsenApiTest.runtimeconfig.json
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\AbsenApiTest.runtimeconfig.dev.json
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\AbsenApiTest.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\AbsenApiTest.pdb
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\Microsoft.TestPlatform.Utilities.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\testhost.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\xunit.abstractions.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\xunit.assert.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\xunit.core.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\xunit.execution.dotnet.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\obj\Debug\netcoreapp3.0\AbsenApiTest.csprojAssemblyReference.cache
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\obj\Debug\netcoreapp3.0\AbsenApiTest.AssemblyInfoInputs.cache
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\obj\Debug\netcoreapp3.0\AbsenApiTest.AssemblyInfo.cs
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\obj\Debug\netcoreapp3.0\AbsenApiTest.csproj.CopyComplete
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\obj\Debug\netcoreapp3.0\AbsenApiTest.dll
+D:\Belajar\barubaru\API-Asen-ASP.NET-Core-master\AbsenApiTest\obj\Debug\netcoreapp3.0\AbsenApiTest.pdb
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\xunit.runner.reporters.netcoreapp10.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\xunit.runner.utility.netcoreapp10.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\AbsenApiTest.deps.json
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\AbsenApiTest.runtimeconfig.json
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\AbsenApiTest.runtimeconfig.dev.json
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\AbsenApiTest.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\AbsenApiTest.pdb
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\Microsoft.TestPlatform.Utilities.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\testhost.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\xunit.abstractions.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\xunit.assert.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\xunit.core.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\xunit.execution.dotnet.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\obj\Debug\netcoreapp3.0\AbsenApiTest.csprojAssemblyReference.cache
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\obj\Debug\netcoreapp3.0\AbsenApiTest.AssemblyInfoInputs.cache
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\obj\Debug\netcoreapp3.0\AbsenApiTest.AssemblyInfo.cs
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\obj\Debug\netcoreapp3.0\AbsenApiTest.csproj.CopyComplete
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\obj\Debug\netcoreapp3.0\AbsenApiTest.dll
+D:\tugas kulyah\PRAKTIKUM RPL\API-Asen-ASP.NET-Core-master\AbsenApiTest\obj\Debug\netcoreapp3.0\AbsenApiTest.pdb

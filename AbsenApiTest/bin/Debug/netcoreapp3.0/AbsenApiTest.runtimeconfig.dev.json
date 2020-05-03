@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\acer swift 3\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\acer swift 3\\.nuget\\packages"
+    ]
+  }
+}
